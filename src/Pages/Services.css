@@ -1,0 +1,32 @@
+
+
+.service{
+    background: linear-gradient(to bottom right, #33ccff -26%, #ff99cc 102%);
+    height: auto;
+    width: 100%;
+    
+
+}
+.serviceheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 130px;
+    border-bottom: 2px solid black;
+}
+.servicecontent{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+    padding-right: 0%;
+}
+.imageborder{
+    margin-top: 20px;
+    height: 300px;
+    width: 380px;
+    border-radius: 25px;
+    
+}

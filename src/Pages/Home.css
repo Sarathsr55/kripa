@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
+
+.font{
+    font-family: 'Comfortaa';
+    font-size: 30px;
+}
+
+.homepage{
+    width: 100%;
+   height: auto;
+}
+.services{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background: linear-gradient(to right, #66ccff6d -31%, #ffccff71 109%);
+}
+.subtitle{
+    display: flex;
+    justify-content: center;
+}
+.bgimage{
+    background-image: url('../images/1880053.jpg');
+    min-height: 670px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.padding1{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.justifycontent{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+.alignitems{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cardcontainer{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin: 20px;
+    
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 160px;
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: rgba(0, 0, 0, 0.462);
+    color: rgba(240, 255, 255, 0.69);
+    border-radius: 25px;
+    
+}
+.titlepara{
+    margin-left: 150px;
+    margin-right: 150px;
+    
+    
+}
+.box{
+    border-radius: 25px !important;
+    width: 350px;
+    height: 300px;
+}
+.box:hover{
+   background-color: #007bff;
+   color: white;
+   border-radius: 25px;
+}
+.items{
+    display: flex;
+    margin: 20px;
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+.image{
+    min-width: 100px !important;
+    max-width: 400px;
+    width: 380px;
+    height: 300px;
+}
+.updatecontents{
+    display: flex;
+    justify-content: center;
+}
+
+
+

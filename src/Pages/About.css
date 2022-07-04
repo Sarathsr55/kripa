@@ -1,0 +1,38 @@
+
+
+.about{
+    padding-top: 150px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 20px;
+    height: auto;
+    background: linear-gradient(to top right, #ccccff 0%, #ffcccc 100%);
+}
+.aboutheader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+}
+.aboutcontents{
+    font-family: 'Comfortaa' ;
+    background: rgba(245, 245, 245, 0.278);
+    padding: 15px;
+    border-radius: 25px;
+}
+.profilepic{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.profileimage{
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+    
+}
+.profilecaption{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+}
