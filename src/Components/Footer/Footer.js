@@ -23,7 +23,7 @@ const Footer = () => {
                 
             </div>
             <div className='designedby' >
-                <h5>Sarath R</h5>
+                <h6>Sarath R</h6>
                 
             </div>
             
