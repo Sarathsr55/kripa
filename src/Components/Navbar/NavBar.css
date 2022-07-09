@@ -1,5 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&display=swap');
 
+@media screen and (max-width: 800px) {
+    .navbar{
+        display: flex !important;
+        justify-content: center !important;
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+    .logo{
+        width: 100%;
+    }
+    .logopic{
+        width: 50px !important;
+        height: 40px !important;
+    }
+    .logoname{
+        width: auto !important;
+        height: 40px !important;
+        padding-top: 15px !important;
+        padding: 1px;
+    }
+}
+
 .navbar{
     height: auto;
     width: 100%;
@@ -13,6 +35,7 @@
 }
 .logo{
     display: flex;
+    width: auto;
     align-items: center;
     
 }
@@ -23,6 +46,7 @@
 }
 .links{
     display: flex !important;
+    margin-left: 10px;
     
     
 }

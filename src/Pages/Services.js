@@ -1,14 +1,8 @@
-import React, { useState, useContext, useEffect } from 'react'
+import React, {  useContext } from 'react'
 import NavBar from '../Components/Navbar/NavBar'
-import concutting from '../images/Concrete-Groove-Cutting-Machine.jpg'
-import tarcutting from '../images/Concrete-road-cutting-machine.jpg'
-import corecutting from '../images/core-cutting-services-in-hyderabad.jpg'
-import electrical from '../images/electrician.jpg'
-import maintanence from '../images/Maintenance-Management.jpg'
-import plumbing from '../images/Toilet-Plumbing-Service.webp'
-import tank from '../images/watertankcleaning.png'
-import chipping from '../images/chipping.jpg'
-import renttool from '../images/toolsrental.jpg'
+import Card from '@mui/material/Card'
+import CardContent from '@mui/material/CardContent'
+import CardMedia from '@mui/material/CardMedia'
 import './Services.css'
 import { ServiceContext } from '../App'
 import Footer from '../Components/Footer/Footer'
@@ -32,12 +26,21 @@ const Services = () => {
           {service.map((obj, index) =>
             
               <div className='servicecontent col-md-6 col-lg-4' key={index} >
-                <div className=''>
-                  <img className='imageborder' src={obj.pic} alt="" />
-                </div>
-                <div>
-                  <h1 className='font' style={{ marginBottom: '0px', padding: '5px' }}>{obj.name}</h1>
-                  </div>
+                <Card className='box'>
+                <CardMedia 
+                  component="img"
+                  height="200"
+                  image={obj.pic}
+                  alt="green iguana"
+                />
+
+                <CardContent sx={{padding:'0px',marginTop:'30px'}} className='justifycontent alignitems'>
+                
+                  <h3 className='font ' >{obj.name}</h3>
+                </CardContent>
+                
+
+              </Card>
               </div>
             
           )}

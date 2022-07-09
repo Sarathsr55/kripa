@@ -4,7 +4,6 @@ import NavBar from '../Components/Navbar/NavBar'
 import './Contact.css'
 import Button from '@mui/material/Button'
 import Typography from '@mui/material/Typography'
-import CardContent from '@mui/material/CardContent'
 import TextField from '@mui/material/TextField'
 
 const Contact = () => {
