@@ -102,7 +102,7 @@ const Home = () => {
           </video>
           <div className='videocontent1' >
             <div className='video-heading'>
-              <h4>Core Cutting</h4>
+              <h4>Concrete Cutting</h4>
             </div>
             <div>
               <p>
