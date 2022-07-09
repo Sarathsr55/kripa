@@ -9,8 +9,6 @@ import plumbing from '../images/plumbing works.jpg'
 import tank from '../images/watertankcleaning.png'
 import chipping from '../images/chipping.jpg'
 import renttool from '../images/toolsrental.jpg'
-import video from '../images/Corecutting-video.mp4'
-import video1 from '../images/Concretecutting-video.mp4'
 import './Home.css'
 import { ServiceContext } from '../App'
 import Footer from '../Components/Footer/Footer'
@@ -80,7 +78,7 @@ const Home = () => {
         </div>
         <div className="player-wrapper">
           <video   className='video' controls  loop autoPlay muted>
-            <source  src={video} type="video/mp4" />
+            <source  src='https://res.cloudinary.com/ddxabpbkv/video/upload/v1657368472/Corecutting-video_enkwkj.mp4' type="video/mp4" />
           </video>
           <div className='videocontent' >
             <div className='video-heading'>
@@ -100,7 +98,7 @@ const Home = () => {
 
         <div className="player-wrapper1">
           <video   className='video' controls  loop autoPlay muted>
-            <source  src={video1} type="video/mp4" />
+            <source  src='https://res.cloudinary.com/ddxabpbkv/video/upload/v1657368530/Concretecutting-video_yxmekl.mp4' type="video/mp4" />
           </video>
           <div className='videocontent1' >
             <div className='video-heading'>
