@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/kripa/static/css/main.5468c324.css",
+    "main.js": "/kripa/static/js/main.6d9e731e.js",
+    "static/js/787.5c2b7e2c.chunk.js": "/kripa/static/js/787.5c2b7e2c.chunk.js",
+    "static/media/Concretecutting-video_yxmekl.mp4": "/kripa/static/media/Concretecutting-video_yxmekl.ce6e4bca5355217e5b41.mp4",
+    "static/media/Corecutting-video_enkwkj.mp4": "/kripa/static/media/Corecutting-video_enkwkj.83cbbe13ceab7be3d82a.mp4",
+    "static/media/Joy.jpg": "/kripa/static/media/Joy.93d90ed5ecf9dcd1ed4a.jpg",
+    "static/media/electrician.jpg": "/kripa/static/media/electrician.a29a9326e7d08db03399.jpg",
+    "static/media/1880053.jpg": "/kripa/static/media/1880053.e37c16cd264bd7e59e23.jpg",
+    "static/media/chipping.jpg": "/kripa/static/media/chipping.48733268d6403eee6298.jpg",
+    "static/media/plumbing works.jpg": "/kripa/static/media/plumbing works.ff6166a453f834a62eac.jpg",
+    "static/media/CND(Final).png": "/kripa/static/media/CND(Final).e39131c5398cd0bd252a.png",
+    "static/media/watertankcleaning.png": "/kripa/static/media/watertankcleaning.93e1d593a2bca6c56c20.png",
+    "static/media/Concrete-road-cutting-machine.jpg": "/kripa/static/media/Concrete-road-cutting-machine.b1e34137a0959836cc44.jpg",
+    "static/media/core-cutting-services-in-hyderabad.jpg": "/kripa/static/media/core-cutting-services-in-hyderabad.ebec9bf90d1c3d3236a7.jpg",
+    "static/media/LOGO1.png": "/kripa/static/media/LOGO1.1d8bbe21df84664a7c7d.png",
+    "static/media/toolsrental.jpg": "/kripa/static/media/toolsrental.1f14f5b86671ce05aa64.jpg",
+    "static/media/Concrete-Groove-Cutting-Machine.jpg": "/kripa/static/media/Concrete-Groove-Cutting-Machine.4a11bb20f5e63360fdbe.jpg",
+    "static/media/Maintenance-Management.jpg": "/kripa/static/media/Maintenance-Management.8c673a2803fd83c472ca.jpg",
+    "index.html": "/kripa/index.html",
+    "main.5468c324.css.map": "/kripa/static/css/main.5468c324.css.map",
+    "main.6d9e731e.js.map": "/kripa/static/js/main.6d9e731e.js.map",
+    "787.5c2b7e2c.chunk.js.map": "/kripa/static/js/787.5c2b7e2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5468c324.css",
+    "static/js/main.6d9e731e.js"
+  ]
+}
