@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kripa/static/css/main.5468c324.css",
-    "main.js": "/kripa/static/js/main.6d9e731e.js",
+    "main.js": "/kripa/static/js/main.2e0fa8c0.js",
     "static/js/787.5c2b7e2c.chunk.js": "/kripa/static/js/787.5c2b7e2c.chunk.js",
     "static/media/Concretecutting-video_yxmekl.mp4": "/kripa/static/media/Concretecutting-video_yxmekl.ce6e4bca5355217e5b41.mp4",
     "static/media/Corecutting-video_enkwkj.mp4": "/kripa/static/media/Corecutting-video_enkwkj.83cbbe13ceab7be3d82a.mp4",
@@ -20,11 +20,11 @@
     "static/media/Maintenance-Management.jpg": "/kripa/static/media/Maintenance-Management.8c673a2803fd83c472ca.jpg",
     "index.html": "/kripa/index.html",
     "main.5468c324.css.map": "/kripa/static/css/main.5468c324.css.map",
-    "main.6d9e731e.js.map": "/kripa/static/js/main.6d9e731e.js.map",
+    "main.2e0fa8c0.js.map": "/kripa/static/js/main.2e0fa8c0.js.map",
     "787.5c2b7e2c.chunk.js.map": "/kripa/static/js/787.5c2b7e2c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5468c324.css",
-    "static/js/main.6d9e731e.js"
+    "static/js/main.2e0fa8c0.js"
   ]
 }
