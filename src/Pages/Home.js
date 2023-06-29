@@ -12,6 +12,8 @@ import renttool from '../images/toolsrental.jpg'
 import './Home.css'
 import { ServiceContext } from '../App'
 import Footer from '../Components/Footer/Footer'
+import Concrete_cutting from '../videos/Concretecutting-video_yxmekl.mp4'
+import Core_cutting from '../videos/Corecutting-video_enkwkj.mp4'
 
 const Home = () => {
     
@@ -78,7 +80,7 @@ const Home = () => {
         </div>
         <div className="player-wrapper">
           <video   className='video' controls  loop autoPlay muted>
-            <source  src='https://res.cloudinary.com/ddxabpbkv/video/upload/v1657368472/Corecutting-video_enkwkj.mp4' type="video/mp4" />
+            <source  src={Concrete_cutting} type="video/mp4" />
           </video>
           <div className='videocontent' >
             <div className='video-heading'>
@@ -98,7 +100,7 @@ const Home = () => {
 
         <div className="player-wrapper1">
           <video   className='video' controls  loop autoPlay muted>
-            <source  src='https://res.cloudinary.com/ddxabpbkv/video/upload/v1657368530/Concretecutting-video_yxmekl.mp4' type="video/mp4" />
+            <source  src={Core_cutting} type="video/mp4" />
           </video>
           <div className='videocontent1' >
             <div className='video-heading'>
